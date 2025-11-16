@@ -30,4 +30,4 @@ pip install pyserial
 
 ## 例程
 * 见 test_dev1 与 test_dev2
-* 它们分别提供了在收发设备上的使用案例
+* 它们分别提供了在发送和接收设备上的使用案例
